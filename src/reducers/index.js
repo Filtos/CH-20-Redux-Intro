@@ -3,7 +3,7 @@ import counterReducer from './counterReducer'
 import userReducer from './userReducer'
 
 const rootReducer = combineReducers({
-  x: counterReducer,
+  counterReducer,
   userReducer
 })
 

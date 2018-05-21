@@ -1,7 +1,7 @@
 // updsate the state when an action happens
 
 const initialState = {
-  name: '',
+  name: 'Ray',
   age: 0,
   address: ''
 }
